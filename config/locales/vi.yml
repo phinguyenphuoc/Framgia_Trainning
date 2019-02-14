@@ -1,0 +1,19 @@
+vi:
+  layouts:
+    header:
+      hello: Xin Chao
+      contact: Lien He
+      about: Thong tin
+      page: Trang chu
+    footer:
+      english: TiengAnh
+      vietnam: TiengViet
+      content: xin chhao
+  home_controller:
+    home:
+      content: Day la trang chu
+    about:
+      content: ruby on rails
+    contact:
+      content: Sdt - 9999999999999
+
