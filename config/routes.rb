@@ -5,4 +5,5 @@ Rails.application.routes.draw do
   get "/about" => "home_controller#about"
   get "/contact" => "home_controller#contact"
   get "/news" => "home_controller#news"
+  get "/signup" => "users#new"
 end
