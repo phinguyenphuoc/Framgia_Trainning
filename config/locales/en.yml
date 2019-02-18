@@ -1,4 +1,9 @@
 en:
+  base_title: Ruby on Rails Tutorial Sample App
+  home: Home
+  contact: Contact
+  about: About
+  news: News
   layouts:
     header:
       welcome: Welcome

@@ -1,4 +1,9 @@
 vi:
+  base_title: Ruby on Rails Tutorial Sample App
+  home: Trang Chu
+  contact: Lien He
+  about: Thong tin
+  news: Tin tuc
   layouts:
     header:
       hello: Xin Chao
@@ -18,4 +23,5 @@ vi:
       content: Sdt - 9999999999999
     news:
       content: Tin tuc moi
+
 
